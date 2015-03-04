@@ -1,3 +1,6 @@
+/**
+ * author lpan
+ */
 #include <highgui.h>
 #include <iostream>
 #include <fstream>
